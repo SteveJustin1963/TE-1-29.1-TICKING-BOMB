@@ -1,6 +1,6 @@
 # TE-1-29.1-TICKING-BOMB
 
- 
+https://easyeda.com/editor#id=143baa6ba49f4032a876b9fd3404e58b
 
 ![](https://github.com/SteveJustin1963/TE-1-29.1-TICKING-BOMB/blob/master/tick-bmb-cct.png)
 
