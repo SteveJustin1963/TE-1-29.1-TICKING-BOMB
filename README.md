@@ -1,4 +1,4 @@
-# TE-1-29.1-TICKING-BOMB
+# TE-1-TICKING-BOMB
 
 https://easyeda.com/editor#id=143baa6ba49f4032a876b9fd3404e58b
 
